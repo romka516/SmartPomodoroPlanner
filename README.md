@@ -36,15 +36,28 @@ To use the automated study planner with the Pomodoro technique, follow these ste
 
 1. First, we press Ctrl+J keys, and activate the macro that organizes the study plan using the Pomodoro technique.
 
+
 2. Enter the desired starting time and the number of study sessions in the program.
+
+
 ![image](https://github.com/romka516/SmartPomodoroPlanner/assets/101732278/d1355c07-eea6-41ce-8ad5-4a7207e9eebb)
 ![image](https://github.com/romka516/SmartPomodoroPlanner/assets/101732278/bbc8262d-2132-4634-8749-8740ce0e4dce)
 
+
+
 3. The program will automatically fill in the date, break times between intervals, and break times between sessions.
+
+
 ![image](https://github.com/romka516/SmartPomodoroPlanner/assets/101732278/ad025769-07a6-473f-82b4-291787f19baf)
 
+
+
 4. Fill in the RESULT column with "+" for successfully completed sessions and "-" for incomplete sessions.
+
+
 ![image](https://github.com/romka516/SmartPomodoroPlanner/assets/101732278/67e59a2b-fe4a-4998-9f45-1a213dccb3d6)
+
+
 
 
 
