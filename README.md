@@ -35,8 +35,15 @@ If the user wishes to have multiple study sessions, a 15-minute break is provide
 To use the automated study planner with the Pomodoro technique, follow these steps:
 
 1. Enter the desired starting time and the number of study sessions in the program.
-2. The program will automatically fill in the date, break times between intervals, and break times between sessions.
-3. Fill in the RESULT column with "+" for successfully completed sessions and "-" for incomplete sessions.
+![image](https://github.com/romka516/SmartPomodoroPlanner/assets/101732278/d1355c07-eea6-41ce-8ad5-4a7207e9eebb)
+![image](https://github.com/romka516/SmartPomodoroPlanner/assets/101732278/bbc8262d-2132-4634-8749-8740ce0e4dce)
+
+3. The program will automatically fill in the date, break times between intervals, and break times between sessions.
+![image](https://github.com/romka516/SmartPomodoroPlanner/assets/101732278/ad025769-07a6-473f-82b4-291787f19baf)
+
+5. Fill in the RESULT column with "+" for successfully completed sessions and "-" for incomplete sessions.
+![image](https://github.com/romka516/SmartPomodoroPlanner/assets/101732278/1ec4773a-862d-400b-8872-0e3a2411527c)
+
 
 ## License
 
