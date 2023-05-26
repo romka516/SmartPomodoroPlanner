@@ -58,7 +58,22 @@ To use the automated study planner with the Pomodoro technique, follow these ste
 ![image](https://github.com/romka516/SmartPomodoroPlanner/assets/101732278/67e59a2b-fe4a-4998-9f45-1a213dccb3d6)
 
 
+However, If you wish to use automated study planner without Pomodor technique, follow these steps:
 
+1. Press Ctrl+P keys to activate the Macro
+
+
+2. Enter the desired starting time
+
+![image](https://github.com/romka516/SmartPomodoroPlanner/assets/101732278/abc06f4c-efcd-459e-a90b-e2beb39517f4)
+
+
+
+3.Single-row will be created as in the image
+![image](https://github.com/romka516/SmartPomodoroPlanner/assets/101732278/2f5a380d-44a5-4d28-af0c-2e5264e1ffe5)
+
+
+Upon completing your study session, please fill in the course you studied and the time at which you finished studying.
 
 
 ## License
