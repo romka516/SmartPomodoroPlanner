@@ -42,7 +42,8 @@ To use the automated study planner with the Pomodoro technique, follow these ste
 ![image](https://github.com/romka516/SmartPomodoroPlanner/assets/101732278/ad025769-07a6-473f-82b4-291787f19baf)
 
 5. Fill in the RESULT column with "+" for successfully completed sessions and "-" for incomplete sessions.
-![image](https://github.com/romka516/SmartPomodoroPlanner/assets/101732278/1ec4773a-862d-400b-8872-0e3a2411527c)
+![image](https://github.com/romka516/SmartPomodoroPlanner/assets/101732278/67e59a2b-fe4a-4998-9f45-1a213dccb3d6)
+
 
 
 ## License
