@@ -78,4 +78,4 @@ Upon completing your study session, please fill in the course you studied and th
 
 ## License
 
-This project is authored by Romka.
+This project is licensed under the [MIT License](LICENSE).
