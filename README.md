@@ -1,6 +1,7 @@
 # Automated Study Planner using Pomodoro Technique
 
-This project aims to provide an automated study planner based on the Pomodoro technique, while also keeping track of study time for different subjects. It utilizes automatic data visualization tools such as PivotTable to present the study information effectively.
+This project focuses on developing an automated study planner that incorporates the Pomodoro technique and tracks study time across various subjects. It leverages data visualization tools like PivotTable to effectively present study information. Furthermore, data analysis is conducted on the study log data to gain valuable insights.
+
 
 ## Features
 - Automatic study plan generation based on the Pomodoro technique
